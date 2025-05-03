@@ -1,4 +1,4 @@
-# Wraith Lantern (Working Title)
+# i dont know
 
 im trying to use godot 4 + chat gpt to make an rpg
 
