@@ -1,0 +1,33 @@
+# Godot-specific folders and files to ignore
+.import/
+.godot/
+.export/
+*.import
+*.translation
+
+# User-specific settings (not needed in version control)
+project.godot/user/
+project.godot/editor_settings-*.json
+project.godot/.mono/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# VSCode settings (optional, if you're using it)
+.vscode/
+
+# Backups
+*.bak
+*.old
+
+# Exported game builds (optional — uncomment if you want to ignore exports)
+# /bin/
+# *.exe
+# *.apk
+# *.zip
