@@ -23,7 +23,7 @@ so basically you play as this wraith called Lumen who wakes up in a dark city ov
 
 1. Download or clone this repository:
     ```bash
-    git clone https://github.com/dead-narwhal/ai-class-project.git
+    git clone https://github.com/dead-narwhal/lantern-game.git
     ```
 2. Open the project in **Godot 4.0+**
 3. Run the main scene 
